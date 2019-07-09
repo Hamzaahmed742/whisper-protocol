@@ -1,0 +1,24 @@
+{
+  "name": "whisper-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzaahmed742/whisper-protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamzaahmed742/whisper-protocol/issues"
+  },
+  "homepage": "https://github.com/Hamzaahmed742/whisper-protocol#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "web3": "^1.0.0-beta.55"
+  }
+}
